@@ -1,0 +1,45 @@
+﻿*************************************
+*  CMPT 361                         *
+*  Assignment 2                     *          
+*                                   *                                                
+*  Hazel (Hei Man) Yip              *
+*  301175142                        *
+*                                   *
+*************************************
+
+Additional controls
+
+'e' - shuffle tiles
+' ' - drop tile
+'z' - zoom in
+'x' - zoom out
+'o', 'p' - rotate  (ctrl+left/right also rotates)
+
+
+Right Click Menu
+
+        A menu will appear when you right-click the game window.  Here is what 
+these options do:
+
+Restart - restarts the game
+
+Skip to level - You have a choice of skipping to level 1, 3, 5, or 7. When 
+chosen, the game will restart.
+
+Disable/Enable row deletion - When enabled, each row that is full will be 
+deleted, and the above tiles will shift down. This makes the game harder to 
+lose.
+
+Disable/Enable falling tiles - When disabled, tiles will stay as tetris shapes 
+when settled, rather than falling as individual tiles if there is room 
+underneath. This mode will leave many floating tiles. 
+
+Quit - exits game
+
+
+Bugs
+
+Restarting - tiles fall faster with each restart
+
+Rotate and Shuffle Tiles - If you shuffle, then rotate a tile, colour 
+orientation of the tile will go back to the original unshuffled position.
