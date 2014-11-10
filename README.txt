@@ -15,6 +15,8 @@ Additional controls
 'x' - zoom out
 'o', 'p' - rotate  (ctrl+left/right also rotates)
 
+*down arrow does nothing
+
 
 Right Click Menu
 

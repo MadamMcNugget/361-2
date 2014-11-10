@@ -23,9 +23,6 @@ these options do:
 
 Restart - restarts the game
 
-Skip to level - You have a choice of skipping to level 1, 3, 5, or 7. When 
-chosen, the game will restart.
-
 Disable/Enable row deletion - When enabled, each row that is full will be 
 deleted, and the above tiles will shift down. This makes the game harder to 
 lose.
@@ -39,7 +36,4 @@ Quit - exits game
 
 Bugs
 
-Restarting - tiles fall faster with each restart
-
-Rotate and Shuffle Tiles - If you shuffle, then rotate a tile, colour 
-orientation of the tile will go back to the original unshuffled position.
+Tiles - first two tile are always the same
